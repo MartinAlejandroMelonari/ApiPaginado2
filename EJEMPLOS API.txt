@@ -1,0 +1,12 @@
+Crear Persona
+{
+    "nombre": "Martin",
+    "apellido": "Melonari",
+    "dni": "43750690"
+}
+
+Codigos de los controller para persona
+CREATE: https://paginado2.onrender.com/api/v1/personas
+SEARCH: https://paginado2.onrender.com/api/v1/personas/search?filtro=a
+GET ALL PAGED: https://paginado2.onrender.com/api/v1/personas/paged?page=0&size=5&sort=id,asc
+SEARCH PAGED: https://paginado2.onrender.com/api/v1/personas/searchPaged?filtro=Martin&page=0&size=5&sort=id,asc
